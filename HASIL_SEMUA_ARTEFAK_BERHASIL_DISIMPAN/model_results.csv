@@ -1,0 +1,7 @@
+Model,MAE,RMSE,R²
+RF Tuned (Best),0.4241,0.5478,0.1222
+Gradient Boosting,0.434,0.5502,0.1144
+Linear Regression,0.4612,0.5743,0.035
+Random Forest,0.4021,0.5974,-0.0439
+KNN Regressor,0.4281,0.5982,-0.0468
+Decision Tree,0.4028,0.6609,-0.2777
